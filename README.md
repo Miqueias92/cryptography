@@ -46,3 +46,22 @@ A tecnologia é considerada uma das mais rápidas de seu tipo e é ideal para pr
 ### Algoritmos de chave simétrica são mais rápidos do que assimétricas
 
 Entre os sistemas criptográficos simétricos temos: IDEA, TwoFish, BlowFish, Serpent, DES, AES, RC5, RC6.
+
+</br>
+
+### O estudo apresentou o seguinte resultado:
+
+#### ANALISE DE DESEMPENHO EM MILISEGUNDOS PARA: 5000
+
+Tempo de criptografia do AES: 295 </br>
+Tempo de descriptografia do AES: 103
+
+Tempo de criptografia do DES: 136 </br>
+Tempo de descriptografia do DES: 123
+
+Tempo de criptografia do RCA: 66 </br>
+Tempo de descriptografia do RCA: 47
+
+Tempo de criptografia do Camellia: 138 </br>
+Tempo de descriptografia do Camellia: 67
+
